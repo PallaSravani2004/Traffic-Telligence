@@ -34,8 +34,4 @@ Future Enhancements
 - Live traffic data integration
 - Emergency vehicle prioritization
 
-Author
 
-Palla Sravani
-
-B.Tech Computer Science and Engineering (2026)
